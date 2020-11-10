@@ -1,2 +1,2 @@
 # imagej
-Repository of critical ImageJ macros used in my PhD
+Repository of important ImageJ macros used in my PhD
